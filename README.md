@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Victor Kenzo!
 
-<!--
-**vtgamer7003-afk/vtgamer7003-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Game Development Enthusiast | Technology Student**
 
-Here are some ideas to get you started:
+💻 Passionate about programming, game development, and creating interactive experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Technology Student
+- 🎮 Interested in Game Development
+- 💻 Experience with JavaScript and Unity
+- 🌱 Always learning new technologies
+- 🎯 Aspiring Game Developer
+
+### 🛠️ Tech Stack
+- JavaScript
+- Unity
